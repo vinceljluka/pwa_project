@@ -12,8 +12,8 @@ Stack: **PHP 8 • MySQL • HTML/CSS (responsive)**
 - Jednostavan, responsive dizajn s prelamanjem dugih riječi  
 
 ## Brzi start
-1. **Import** `vijesti_db.sql` u MySQL.  
-2. U `config.php` postavi DB pristupne podatke.  
+1. **Import** `vijesti_db.sql` u phpMyAdmin.  
+2. U `connect.php` postavi DB pristupne podatke.  
 3. Pokreni projekt u lokalnom PHP serveru ili Apache/Nginx-u.  
 
 > Autor: **Luka Vincej** – TVZ, 2025
